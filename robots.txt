@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matteoangeloni-jpeg.github.io/sitemap.xml
