@@ -1,7 +1,7 @@
 google.com, pub-3212789523585224, DIRECT, f08c47fec0942fa0
 
 # Appodeal mediation (Sleepy Corgis)
-appodeal.com, 253504, DIRECT
+appodeal.com, 441765, DIRECT
 bidmachine.io,1,DIRECT
 bidmachine.io,466,DIRECT
 google.com, pub-1165868533288337, DIRECT, f08c47fec0942fa0
@@ -2509,3 +2509,11 @@ trustedstack.com, TS677PGY3, RESELLER
 152media.info, 152M491, RESELLER
 adyoulike.com, 721f20f70910d379981dc19ec5da709f, RESELLER
 axonix.com, 59204, RESELLER
+
+# Appodeal account export verified 2026-10-31
+152media.info, 152M312, RESELLER
+152media.info, 152M499, RESELLER
+152media.info,152M1093,RESELLER
+152media.info,152M1133,RESELLER
+bigo.sg,y0hkbizzwn,DIRECT
+bigo.sg,y0hkbizzwn,RESELLER
