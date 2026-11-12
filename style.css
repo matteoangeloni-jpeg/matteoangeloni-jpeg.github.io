@@ -2,3 +2,11 @@
 .game:last-child{grid-column:1/-1;display:grid;grid-template-columns:1.25fr 1fr}.actions{display:flex;gap:24px;align-items:center;flex-wrap:wrap;margin-top:24px}.actions .button{background:var(--gold);color:var(--ink);margin:0}.actions .text-link{margin:0}@media(max-width:900px){.game:last-child{display:flex;grid-column:auto}}
 
 @media(max-width:480px){.intro{padding:26px 0 30px}h1{font-size:36px;letter-spacing:-.045em}.intro>p:not(.eyebrow){font-size:16px}header{gap:12px}nav{font-size:12px}.actions{gap:16px}.game-copy{padding:22px}}
+/* Self-hosted Borgo Bloom trailers; playback starts only on user request. */
+.game-media{margin:0;min-width:0;padding:22px;background:#09191c;color:var(--paper);display:flex;flex-direction:column;justify-content:center;gap:12px}
+.game-media video{display:block;width:100%;height:auto;aspect-ratio:16/9;background:#09191c;border-radius:12px}
+.game-media figcaption{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:13px;line-height:1.5}
+.game-media a{color:var(--gold)}
+.game-media video:focus-visible{outline:3px solid var(--gold);outline-offset:5px}
+@media(max-width:480px){.game-media{padding:16px}}
+
